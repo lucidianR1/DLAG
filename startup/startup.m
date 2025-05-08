@@ -1,21 +1,21 @@
-addpath core_dlag
-addpath core_pcca
-addpath core_fa
-addpath plotting
-addpath inferential_statistics
-addpath descriptive_statistics
-addpath variable_transformations
-addpath variable_transformations/dlag
-addpath variable_transformations/pcca
-addpath simulation
-addpath simulation/dlag
-addpath simulation/pcca
-addpath util
-addpath util/precomp
-addpath util/fileRetrieval
-addpath util/fileRetrieval/dlag
-addpath util/fileRetrieval/pcca
-addpath util/fileRetrieval/fa
+% addpath core_dlag
+% addpath core_pcca
+% addpath core_fa
+% addpath plotting
+% addpath inferential_statistics
+% addpath descriptive_statistics
+% addpath variable_transformations
+% addpath variable_transformations/dlag
+% addpath variable_transformations/pcca
+% addpath simulation
+% addpath simulation/dlag
+% addpath simulation/pcca
+% addpath util
+% addpath util/precomp
+% addpath util/fileRetrieval
+% addpath util/fileRetrieval/dlag
+% addpath util/fileRetrieval/pcca
+% addpath util/fileRetrieval/fa
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The following code checks for the relevant MEX files (such as .mexa64

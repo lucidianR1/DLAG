@@ -108,7 +108,7 @@ function precomp = makePrecomp( seq , xDim )
       end
     end
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    fprintf('MEX did not work in PautoSUM...defaulting to native MATLAB.\n');
+    %fprintf('MEX did not work in PautoSUM...defaulting to native MATLAB.\n');
   end
   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
